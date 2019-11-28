@@ -5,3 +5,4 @@
  - homework4 : BookCrossing (BX) dataset의 유사도 측정(Surprise 패키지 이용)
  - module : 사용자 Similarity 및 baseline rating 기반의 Memory-based CF 구현 후 모듈화
  - Final_module : module 테스트
+ - Final_Implicit_data : Implicit_data를 이용한 추천시스템

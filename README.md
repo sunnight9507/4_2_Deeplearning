@@ -7,3 +7,4 @@
  - Final_module : module 테스트
  - Final_Implicit_data : Implicit_data를 이용한 추천시스템
  - HW5 : Surprise Library를 이용하여 precision, recall, f1-measure 구하기 / NDCG 함수를 만들어 NDCG 측정하기
+ - Book : 밑바닥부터 시작하는 딥러닝(책)
